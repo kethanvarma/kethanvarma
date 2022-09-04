@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kethanvarma
-- 👀 I’m interested in Python and mysql
+- 👀 I’m interested in Python and AWS
 - 🌱 
 
 <!---
